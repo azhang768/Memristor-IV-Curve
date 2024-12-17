@@ -1,3 +1,3 @@
 # Memristor-IV-Curve
-# This code generates a simple, linear pinched hystersis curve. It can give an idea of how different memristances create an IV curve. However, since the generated graph is linear, this only acts as an estimation for the real hystersis loop.
+# plot_memristor2.py generates a CCW orientation hysteresis curve (shown by Figure 2) to demonstrate the different curves, while plot_memristor.py generates a CW orientation hysteresis zoomed in to focus only on the linear region (shown by Figure 1) to demonstrate the different resistances.
 # Angela Zhang, MVC Semester 1 Final Project
